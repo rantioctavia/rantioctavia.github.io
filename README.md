@@ -1,1 +1,1 @@
-# rantioctavia.github.io
+Saya Ranti telah menyelesaikan tugas github pages
